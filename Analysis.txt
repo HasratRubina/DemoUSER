@@ -1,0 +1,6 @@
+When Thread start loadCommandCache method called where its fetch command from cache if cache is empty then its loadCommandCache where its called getPendingCommandServerCommands
+where its fetch command from DB. and  scheduleCommand method called  where its fetch details aginst key from cache when empty then details put details  against key and notifyCommandIsWaiting where fast pooling called where getSignalingChannelForATM method called where where WebSocketSession fetch against key  if websocket session is empty then 
+this logger comes. and ReplyMessage method called with fail reason
+after that processReply method is called  where if exception on send message then it called print exception that is  failure reason of fast polling 
+ processReply - Failed to send Fast Polling Signal to Terminal (with TerminalID = Z009, atmKey = 17351093008010299) because web socket connection is not registered. Please check if the agent is running on this atm and web socket connectivity is enabled.
+
